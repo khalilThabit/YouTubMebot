@@ -13,9 +13,9 @@
     - python3 -m bot
     
 ### Support Group:
-<a href="https://t.me/InFoJosTelGroup"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/T5_T7"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 ### Support Channel:
-<a href="https://t.me/LushaiMusic"><img src="https://img.shields.io/badge/Telegram
+<a href="https://t.me/Y5_M5"><img src="https://img.shields.io/badge/Telegram
 21
 
 22
